@@ -1,0 +1,11 @@
+{
+  "name": "QuizMaster",
+  "version": "0.0.1",
+  "description": "Quiz Master is an application for making, taking, managing and monitoring quizzes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathanael O. Hinay",
+  "license": "MIT"
+}
